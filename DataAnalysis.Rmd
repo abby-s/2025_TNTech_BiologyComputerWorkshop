@@ -94,7 +94,7 @@ going to start with (hopefully) a quick refresher on some key functions within
 the tidyverse package. 
 
 ```{r}
-# Load the package
+# Load the package (here is my change)
 # If you need to install the package, use `install.packages("tidyverse")` in the
 # console. 
 # Note that you NEVER want to have the install function in your R script. It is 
